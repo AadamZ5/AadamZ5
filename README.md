@@ -1,4 +1,10 @@
-### Hi there 👋
+### I am learning! 📖👀
+
+I like Python, TypeScript, C#, C++, and more!
+
+I'm eager to find the easiest way to design quick, reliable, and scalable business logic applications right now, but I am definitely interested in new areas of work too!
+
+Send me a message, or browse my repositories and cirique my code! 👋
 
 <!--
 **AadamZ5/AadamZ5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
