@@ -1,6 +1,6 @@
 ### I am learning! 📖👀
 
-I like Python, TypeScript, C#, C++, and more!
+I like Rust, TypeScript, Python, C#, and more!
 
 I'm eager to find the easiest way to design quick, reliable, and scalable business logic applications right now, but I am definitely interested in new areas of work too!
 
